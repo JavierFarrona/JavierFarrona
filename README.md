@@ -11,7 +11,7 @@ Soy un desarrollador apasionado por [tu campo/intereses]. Trabajo con:
 🌱 Actualmente aprendiendo: [nueva habilidad o tecnología]
 
 📫 **Cómo contactarme**:
-- [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- [LinkedIn](https://www.linkedin.com/in/javier-farrona-1217b8339/)
 - [Correo electrónico](mailto:tucorreo@ejemplo.com)
 
 ---
