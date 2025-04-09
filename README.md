@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  Apasionado por los sistemas, la arquitectura de computadores y la programación de bajo nivel.
-  Siempre listo para aprender, colaborar y construir cosas chulas con código 🚀
+  Gusto por el Front aunque tambien le echo horas al Back 🚀
 </p>
 
 ---
@@ -44,8 +43,8 @@
 ## 📬 Contacto
 
 ¿Te interesa colaborar, tienes un proyecto, o simplemente quieres hablar de tech?  
-📧 **[tu_correo@ull.edu.es](mailto:tu_correo@ull.edu.es)**  
-🔗 [LinkedIn (opcional)](https://www.linkedin.com/in/tu-usuario)
+📧 **[alu0101541983@ull.edu.es](mailto:alu0101541983@ull.edu.es)**  
+🔗 [LinkedIn](https://www.linkedin.com/in/tu-usuario)
 
 ---
 
